@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on 歹尼的底片日記</title>
+    <title>Blogs on denny的學習筆記</title>
     <link>https://denny628.github.io/blog/</link>
-    <description>Recent content in Blogs on 歹尼的底片日記</description>
+    <description>Recent content in Blogs on denny的學習筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 08 Oct 2021 21:50:47 +0800</lastBuildDate><atom:link href="https://denny628.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://denny628.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>你好啊我是denny </title>
-      <link>https://denny628.github.io/blog/test/</link>
-      <pubDate>Fri, 08 Oct 2021 21:50:47 +0800</pubDate>
+      <title>UIUX學習筆記（更新中）</title>
+      <link>https://denny628.github.io/blog/uiux/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://denny628.github.io/blog/test/</guid>
-      <description>Hello word h1.bluetext{ color:aquamarine; } .largetext{ font-size: 3em; } </description>
+      <guid>https://denny628.github.io/blog/uiux/</guid>
+      <description>UIUX筆記 01-資訊架構 決定：   產品該放在哪
+  哪些是重要內容
+  使用工具： Wireframe (線框槁)   線框槁使用應注重『架構』與『內容』</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://denny628.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>FIGMA學習筆記（更新中）</title>
+      <link>https://denny628.github.io/blog/figma01/</link>
+      <pubDate>Wed, 13 Oct 2021 21:50:47 +0800</pubDate>
       
-      <guid>https://denny628.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://denny628.github.io/blog/figma01/</guid>
+      <description>Figma是什麼 01-框架（Frame）與群組（Group） 框架（Frame）   可以一層包一層 （巢狀結構）
+  可以當遮色片</description>
     </item>
     
   </channel>
