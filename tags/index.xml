@@ -6,11 +6,20 @@
     <description>Recent content in Tags on denny的學習筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://denny628.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://denny628.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS</title>
+      <link>https://denny628.github.io/tags/css/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://denny628.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>design</title>
       <link>https://denny628.github.io/tags/design/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://denny628.github.io/tags/design/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>Photos</title>
       <link>https://denny628.github.io/tags/photos/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://denny628.github.io/tags/photos/</guid>
       <description></description>
@@ -28,7 +37,7 @@
     <item>
       <title>UIUX</title>
       <link>https://denny628.github.io/tags/uiux/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://denny628.github.io/tags/uiux/</guid>
       <description></description>
@@ -37,7 +46,7 @@
     <item>
       <title>FIGMA</title>
       <link>https://denny628.github.io/tags/figma/</link>
-      <pubDate>Wed, 13 Oct 2021 21:50:47 +0800</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://denny628.github.io/tags/figma/</guid>
       <description></description>
@@ -46,7 +55,7 @@
     <item>
       <title>Game</title>
       <link>https://denny628.github.io/tags/game/</link>
-      <pubDate>Wed, 13 Oct 2021 21:50:47 +0800</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://denny628.github.io/tags/game/</guid>
       <description></description>
@@ -55,7 +64,7 @@
     <item>
       <title>HTML</title>
       <link>https://denny628.github.io/tags/html/</link>
-      <pubDate>Wed, 13 Oct 2021 21:50:47 +0800</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://denny628.github.io/tags/html/</guid>
       <description></description>

@@ -6,7 +6,16 @@
     <description>Recent content in markdown on denny的學習筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://denny628.github.io/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://denny628.github.io/categories/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS學習筆記（更新中）</title>
+      <link>https://denny628.github.io/blog/css/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://denny628.github.io/blog/css/</guid>
+      <description>CSS-網頁的裝潢 01-基本選擇器 (Selectors) Id select  每個網頁 **id** 屬性值都是唯一的 可用來明確套用樣式。 id 須加上 # 前綴。  Class select  每個網頁 class 屬性值可重複多次 當網頁有許多元素須共用相同樣式使用。 可用空格區隔指定多值。 class 須加上 .</description>
+    </item>
+    
     <item>
       <title>UIUX學習筆記（更新中）</title>
       <link>https://denny628.github.io/blog/uiux/</link>
@@ -21,7 +30,7 @@
     <item>
       <title>FIGMA學習筆記（更新中）</title>
       <link>https://denny628.github.io/blog/figma01/</link>
-      <pubDate>Wed, 13 Oct 2021 21:50:47 +0800</pubDate>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://denny628.github.io/blog/figma01/</guid>
       <description>Figma是什麼 01-框架（Frame）與群組（Group） 框架（Frame）   可以一層包一層 （巢狀結構）

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>design on denny的學習筆記</title>
-    <link>https://denny628.github.io/tags/design/</link>
-    <description>Recent content in design on denny的學習筆記</description>
+    <title>CSS on denny的學習筆記</title>
+    <link>https://denny628.github.io/tags/css/</link>
+    <description>Recent content in CSS on denny的學習筆記</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://denny628.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://denny628.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CSS學習筆記（更新中）</title>
       <link>https://denny628.github.io/blog/css/</link>
@@ -14,17 +14,6 @@
       
       <guid>https://denny628.github.io/blog/css/</guid>
       <description>CSS-網頁的裝潢 01-基本選擇器 (Selectors) Id select  每個網頁 **id** 屬性值都是唯一的 可用來明確套用樣式。 id 須加上 # 前綴。  Class select  每個網頁 class 屬性值可重複多次 當網頁有許多元素須共用相同樣式使用。 可用空格區隔指定多值。 class 須加上 .</description>
-    </item>
-    
-    <item>
-      <title>UIUX學習筆記（更新中）</title>
-      <link>https://denny628.github.io/blog/uiux/</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://denny628.github.io/blog/uiux/</guid>
-      <description>UIUX筆記 01-資訊架構 決定：   產品該放在哪
-  哪些是重要內容
-  使用工具： Wireframe (線框槁)   線框槁使用應注重『架構』與『內容』</description>
     </item>
     
   </channel>
